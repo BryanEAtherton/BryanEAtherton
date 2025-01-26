@@ -10,6 +10,10 @@
   - [Azure Virtual Machine and Windows Remote Desktop](https://github.com/BryanEAtherton/Azure-Virtual-Machine)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/BryanEAtherton/configure-ad) -Under Construction
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/BryanEAtherton/azure-network-protocols) -Under Construction
+ 
+<h2>👨‍💻 Security Projects:</h2>
+
+- <b>Security Project 1</b>
 
 <h2>🤳Connect with me:</h2>
 
