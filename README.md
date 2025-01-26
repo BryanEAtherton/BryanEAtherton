@@ -11,9 +11,9 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/BryanEAtherton/configure-ad) -Under Construction
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/BryanEAtherton/azure-network-protocols) -Under Construction
  
-<h2>👨‍💻 Security Projects:</h2>
+<h2>👨‍💻 Security Projects: -Under Construction</h2>
 
-- <b>Security Project 1 (Enter details here)</b>
+- <b>Security Project 1 (Coming soon)</b>
 
 <h2>🤳Connect with me:</h2>
 
