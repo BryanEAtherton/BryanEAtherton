@@ -13,7 +13,7 @@
  
 <h2>👨‍💻 Security Projects:</h2>
 
-- <b>Security Project 1</b>
+- <b>Security Project 1 (Enter details here)</b>
 
 <h2>🤳Connect with me:</h2>
 
