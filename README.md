@@ -8,12 +8,12 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/BryanEAtherton/osTicket-Ticket-Life-Cycle-Example-)
 - <b>Microsoft Azure</b>
   - [Azure Virtual Machine and Windows Remote Desktop](https://github.com/BryanEAtherton/Azure-Virtual-Machine)
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/BryanEAtherton/configure-ad) -Under Construction
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/BryanEAtherton/azure-network-protocols) -Under Construction
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/BryanEAtherton/configure-ad) -Coming Soon
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/BryanEAtherton/azure-network-protocols) -Coming soon
  
 <h2>👨‍💻 Security Projects: -Under Construction</h2>
 
-- <b>Security Project 1 (Coming soon)</b>
+- <b>Security Project 1 (Under Construction)</b>
   - [Security Project 1](https://github.com/BryanEAtherton/Security-Project-1)
 
 <h2>🤳Connect with me:</h2>
