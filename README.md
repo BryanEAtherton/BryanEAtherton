@@ -14,6 +14,7 @@
 <h2>👨‍💻 Security Projects: -Under Construction</h2>
 
 - <b>Security Project 1 (Coming soon)</b>
+  - [Security Project 1](https://github.com/BryanEAtherton/Security-Project-1)
 
 <h2>🤳Connect with me:</h2>
 
