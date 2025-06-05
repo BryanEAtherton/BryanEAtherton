@@ -7,9 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/BryanEAtherton/osticket-post-install-setup)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/BryanEAtherton/osTicket-Ticket-Life-Cycle-Example-)
 - <b>Microsoft Azure</b>
-  - [Azure Virtual Machine and Windows Remote Desktop](https://github.com/BryanEAtherton/Azure-Virtual-Machine)
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/BryanEAtherton/configure-ad) -Coming Soon
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/BryanEAtherton/azure-network-protocols) -Coming soon
+  - [Azure Virtual Machine creation and access using Windows Remote Desktop](https://github.com/BryanEAtherton/Azure-Virtual-Machine)
  
 <h2>👨‍💻 Security Projects: -Under Construction</h2>
 
