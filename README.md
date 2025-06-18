@@ -13,9 +13,9 @@
 
 - <b>Security Project 1 (Under Construction)</b>
   - [Security Project 1](https://github.com/BryanEAtherton/Security-Project-1)
-  -  [Security Project 1](https://github.com/BryanEAtherton/Security-Project-1)
+  -  [SOC Project](https://github.com/BryanEAtherton/Security-Project-Template)
 
-<h2>🤳Connect with me:</h2>
+<h2>🤳Connect with me:</h2
 
 
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
