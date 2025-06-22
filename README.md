@@ -12,7 +12,7 @@
 <h2>👨‍💻 Security Projects: -Under Construction</h2>
 
 - <b>Security Project 1 (Under Construction)</b>
-  - [Security Project 1](https://github.com/BryanEAtherton/Security-Project-1)
+  - [Azure Honeynet Setup](https://github.com/BryanEAtherton/Security-Project-1)
   -  [Honeynet and SOC Project](https://github.com/BryanEAtherton/Security-Project-Template)
   
 
