@@ -14,7 +14,7 @@
 - <b>Security Project 1 (Under Construction)</b>
   - [Security Project 1](https://github.com/BryanEAtherton/Security-Project-1)
   -  [Honeynet and SOC Project](https://github.com/BryanEAtherton/Security-Project-Template)
-  -  [Security Portfolio](https://github.com/BryanEAtherton/Security-Portfolio)
+  
 
 <h2>🤳Connect with me:</h2
 
