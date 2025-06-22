@@ -12,8 +12,10 @@
 <h2>👨‍💻 Security Projects: -Under Construction</h2>
 
 - <b>Honeynet and SOC in Azure (Under Construction)</b>
-  - [Azure Honeynet Setup](https://github.com/BryanEAtherton/Security-Project-1)
   - [Honeynet and SOC Project](https://github.com/BryanEAtherton/Security-Project-Template)
+    - [Azure Honeynet Setup](https://github.com/BryanEAtherton/Security-Project-1)
+    - [Generate and observe logs from SSMS in Windows Event Viewer](https://github.com/BryanEAtherton/Create-and-View-Events-in-Windows-Event-Viewer)
+  
   
 
 <h2>🤳Connect with me:</h2
