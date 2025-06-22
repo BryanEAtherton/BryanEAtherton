@@ -7,7 +7,8 @@
   - [osTicket: Post-Installation Configuration](https://github.com/BryanEAtherton/osticket-post-install-setup)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/BryanEAtherton/osTicket-Ticket-Life-Cycle-Example-)
 - <b>Microsoft Azure</b>
-  - [Azure Virtual Machine creation and access using Windows Remote Desktop](https://github.com/BryanEAtherton/Azure-Virtual-Machine)
+  - [Azure Virtual Machine (VM) Creation and Access Using Windows Remote Desktop](https://github.com/BryanEAtherton/Azure-Virtual-Machine)
+  - [Ping and Log into a Linux VM Using Microsoft PowerShell](https://github.com/BryanEAtherton/Ping-Linux-VM) 
  
 <h2>👨‍💻 Security Projects: -Under Construction</h2>
 
