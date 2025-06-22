@@ -11,9 +11,9 @@
  
 <h2>👨‍💻 Security Projects: -Under Construction</h2>
 
-- <b>Security Project 1 (Under Construction)</b>
+- <b>Honeynet and SOC in Azure (Under Construction)</b>
   - [Azure Honeynet Setup](https://github.com/BryanEAtherton/Security-Project-1)
-  -  [Honeynet and SOC Project](https://github.com/BryanEAtherton/Security-Project-Template)
+  - [Honeynet and SOC Project](https://github.com/BryanEAtherton/Security-Project-Template)
   
 
 <h2>🤳Connect with me:</h2
