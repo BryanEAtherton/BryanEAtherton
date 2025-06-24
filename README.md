@@ -10,10 +10,10 @@
   - [Azure Virtual Machine (VM) Creation and Access Using Windows Remote Desktop](https://github.com/BryanEAtherton/Azure-Virtual-Machine)
   - [Ping and Log into a Linux VM Using Microsoft PowerShell](https://github.com/BryanEAtherton/Ping-Linux-VM) 
  
-<h2>👨‍💻 Security Projects: -Under Construction</h2>
+<h2>👨‍💻 Security Projects: </h2>
 
-- <b>Honeynet and SOC in Azure (Under Construction)</b>
-  - [Honeynet and SOC Project](https://github.com/BryanEAtherton/Security-Project-Template)
+- <b>Honeynet and SOC in Azure </b>
+  - [Honeynet and SOC Project](https://github.com/BryanEAtherton/Azure-Honynet-and-SOC)
     - [Azure Honeynet VM Setup](https://github.com/BryanEAtherton/Security-Project-1)
     - [Generate and observe logs from SSMS in Windows Event Viewer](https://github.com/BryanEAtherton/Create-and-View-Events-in-Windows-Event-Viewer)
   
