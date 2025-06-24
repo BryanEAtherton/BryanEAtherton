@@ -14,7 +14,7 @@
 
 - <b>Honeynet and SOC in Azure </b>
   - [Honeynet and SOC Project](https://github.com/BryanEAtherton/Azure-Honynet-and-SOC)
-    - [Azure Honeynet VM Setup](https://github.com/BryanEAtherton/Security-Project-1)
+    - [Azure Honeynet VM Setup](https://github.com/BryanEAtherton/Azure-Honeynet-Setup)
     - [Generate and observe logs from SSMS in Windows Event Viewer](https://github.com/BryanEAtherton/Create-and-View-Events-in-Windows-Event-Viewer)
   
   
