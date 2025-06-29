@@ -16,8 +16,9 @@
   - [Honeynet and SOC Project](https://github.com/BryanEAtherton/Azure-Honynet-and-SOC)
     - [Azure Honeynet VM Setup](https://github.com/BryanEAtherton/Azure-Honeynet-Setup)
     - [Generate and observe logs from SSMS in Windows Event Viewer](https://github.com/BryanEAtherton/Create-and-View-Events-in-Windows-Event-Viewer)
+    - [Working through Alerts in Sentinel](https://github.com/BryanEAtherton/Working-through-Alerts-in-Sentinel/edit/main/README.md)
   
-  
+   
 
 <h2>🤳Connect with me:</h2
 
